@@ -1,0 +1,97 @@
+h1 {
+    color: rgb(175, 32, 120);
+    background: linear-gradient(to left, #fa8ebb, #f5f3f3);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+    width: 80%;
+    border-top: 2px solid pink;
+    align-items: center;
+    align-content: center;
+    position: center;
+    justify-content: center;
+    margin-left: 35px;
+    margin-right: 10px;
+}
+
+a:link {
+    font-size: 0.7em;
+    color: rgb(95, 11, 252);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+    margin: 3px;
+}
+
+a:visited {
+    color: rgba(146, 0, 61, 0.582);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+    background-color: #85026477;
+}
+
+a:hover {
+    color: rgb(240, 243, 243);
+    background: linear-gradient(to right, #fa8ebb, #f5f3f3);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+}
+
+a:active {
+    color: rgb(247, 238, 238);
+    background-color: rgba(14, 15, 15, 0.555);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+}
+
+p {
+    border-top: 2px solid pink;
+    color: rgb(245, 2, 103);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+    opacity: 85%;
+    text-decoration: none;
+    width: 100%;
+}
+
+body {
+    font-family: "Open Sans", serif;
+    background: linear-gradient(to right, #fa8ebb, #f5f3f3);
+    height: 100%;
+    width: 100%;
+    align-content: center;
+    text-align: center;
+}
+
+.App-kk,
+.App-ii,
+.App-rr {
+    height: 100%;
+    width: 100%;
+    border: 1px solid pink;
+    align-content: center;
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+}
+
+button {
+    box-shadow: 1px 2px 1px;
+    border: 2px solid rgba(255, 192, 203, 0.534);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+    color: rgb(114, 1, 58);
+    background: linear-gradient(to right, #fa8ebb, #f5f3f3);
+}
+
+.NavLink {
+    background: linear-gradient(to right, #fa8ebb, #f5f3f3);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+}

@@ -1,0 +1,102 @@
+body {
+    font-size: 1em;
+    font-family: cursive;
+    line-height: 5em;
+}
+
+body * {
+    font-size: 1.1em;
+    border-radius: 195px;
+    -moz-border-radius: 195px;
+    -webkit-border-radius: 195px;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 195px;
+    -moz-border-radius: 195px;
+    -webkit-border-radius: 195px;
+}
+
+header nav {
+    font-family: " Montserrat", "helvetica", "arial", ;
+    padding: 5px 5px 5px 5px;
+    margin: 5px;
+    border-radius: 195px;
+    -moz-border-radius: 195px;
+    -webkit-border-radius: 195px;
+}
+
+.NavLink {
+    text-decoration: overline;
+    font-weight: bold;
+    padding: 5px 5px 5px 5px;
+    margin: 40px;
+    border-radius: 195px;
+    -moz-border-radius: 195px;
+    -webkit-border-radius: 195px;
+}
+
+article {
+    line-height: 1.8em;
+    border-radius: 195px;
+    -moz-border-radius: 195px;
+    -webkit-border-radius: 195px;
+}
+
+p {
+    margin: 1em 0;
+    font-size: 2em;
+    border-radius: 195px;
+    -moz-border-radius: 195px;
+    -webkit-border-radius: 195px;
+}
+
+h1 {
+    border-top: 1px solid pink;
+    font-size: 1em;
+    font-family: " Montserrat", "helvetica", "arial", ;
+    font-weight: bold;
+    border-radius: 195px;
+    -moz-border-radius: 195px;
+    -webkit-border-radius: 195px;
+}
+
+#imagegallery {
+    list-style-type: none;
+    border-radius: 195px;
+    -moz-border-radius: 195px;
+    -webkit-border-radius: 195px;
+}
+
+textarea {
+    font-family: "helvetica", "arial", sans-serif;
+    border-radius: 195px;
+    -moz-border-radius: 195px;
+    -webkit-border-radius: 195px;
+}
+
+#quote {
+    margin-left: 40px;
+    width: 85%;
+    color: oldlace;
+    background-color: midnightblue;
+    font-size: .8em;
+    text-align: center;
+    border-radius: 90px;
+    -moz-border-radius: 90px;
+    -webkit-border-radius: 90px;
+    hyphens: auto;
+}
+
+#author {
+    color: black;
+    background-color: transparent;
+    font-size: 1.8em;
+    text-align: center;
+    border-top: 1px solid rgb(161, 54, 72);
+    border-radius: 175px;
+    -moz-border-radius: 175px;
+    -webkit-border-radius: 175px;
+}
