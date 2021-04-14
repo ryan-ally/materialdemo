@@ -12,7 +12,7 @@
         "react-dom": "^16.8.6",
         "react-router-dom": "^5.0.0",
         "react-scripts": "^4.0.2",
-        "twin.macro": "^1.12.1"
+        "twin.macro": "^2.0.0"
     },
     "scripts": {
         "start": "react-scripts start",
